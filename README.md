@@ -27,9 +27,15 @@ Jeg satt opp min database med MySQL i PHPMyAdmin. For å gjøre dette logget jeg
 
 ``
 INSERT INTO `products` (
+``
+``
     `name`, `amount`
 )
+``
+``
 VALUES
+``
+
     ('Blå melk', '2'),
     ('Kylling 400g', '3'),
     ('Jasmin ris', '1')
