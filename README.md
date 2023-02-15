@@ -25,21 +25,14 @@ Jeg satt opp min database med MySQL i PHPMyAdmin. For å gjøre dette logget jeg
 - For å administrere innholdet i databasen din kan du bruke fanene «Insert/sett inn», «Delete/slett», «Update/oppdater» og «Select/velg» i PHPMyAdmin. 
 - Eksempel når jeg skal legge inn et produkt i handleliste tabellen min så klikker jeg på SQL i menyen å gjør følgende:
 
-``
 INSERT INTO `products` (
-``
-``
     `name`, `amount`
 )
-``
-``
 VALUES
-``
-
     ('Blå melk', '2'),
     ('Kylling 400g', '3'),
     ('Jasmin ris', '1')
-``
+
 
 Da vil Blå melk, Kylling 200g og Jasmin ris bli lagt til i handlelisten, altså databasen. 
 
