@@ -2,22 +2,22 @@
 ## Anna Helene Sæthre
 ### 20.02.2023
 
-# MySQL
-### Introduksjon
+# MySQL 
+### Introction
 MySQL er en åpen kildekode relasjonsdatabaseadministrasjonssystem (relational database management system) som blir brukt for webapplikasjoner, datavarehus og andre forretnings kritiske oppgaver.
 Den ble utgitt i 1995 og har blitt en av de mest populære databasene i verden.
 
+### Brief History
 MySQL er kjent for sin skalerbarhet, pålitelighet og ytelse. Den håndterer store mengder data og er i stand til å støtte flere brukere og transaksjoner samtidig. MySQL støtter også ulike operativsystemer som Windows, Linux og Mac OS.
 
 En av hovedfordelene med MySQL er dens brukervennlighet. Den har et enkelt og intuitivt grensesnitt, som gjør det lett for utviklere å lage og administrere databaser. I tillegg har MySQL et rikt sett funksjoner som gjør den egnet for et bredt spekter av bruksområder. 
 
 En annen fordel med MySQL er sikkerhetsfunksjonene den har. Den har innebygd støtte for kryptering, sikre tilkoblinger og brukerautentisering som sikrer at data er trygg mot uautorisert tilgang. Den oppdateres jevnlig med sikkerhetsoppdateringer for å løse eventuelle sårbarheter som kan bli oppdaget. 
 
-
-### Hoveddel
+### How it works / how i set up my first database
 MySQL har et sterkt felleskap av utviklere og brukere som bidrar til utviklingen. Dette felleskapet har skapt et stort økosystem av plugins, verktøy og biblioteker som utvider funksjonaliteten og gjør MySQL enda kraftigere. 
 
-Jeg satt opp min database med MySQL i PHPMyAdmin. For å gjøre dette logget jeg inn på PHPMyAdmin. Når du er logget inn for du en liste over eksisterende databaser til venstre på skjermen. 
+Jeg satt opp min første database med MySQL i PHPMyAdmin. For å gjøre dette logget jeg inn på PHPMyAdmin. Når du er logget inn for du en liste over eksisterende databaser til venstre på skjermen. 
 - For å lage en ny database klikker du på «New» knappen på toppen av skjermen.
 - I «create database/ny database» skjemaet som dukker opp, velger du navn til den nye databasen din (shoppinglist eksempel) og velger default karakter og sammenstilling. Du kan la det være på default med mindre du har spesifikke krav.
 - Klikk deretter på «create/opprett» knappen for å opprette den nye databasen din.
@@ -38,6 +38,15 @@ Da vil Blå melk, Kylling 200g og Jasmin ris bli lagt til i handlelisten, altså
 
 I mitt tilfelle lagde jeg en handleliste, med skjema så jeg kunne legge til produkter etter behov. Her kan kun fantasien stoppe deg angående hvilken / hvor avansert database du vil prøve å lage. 
 
+### Features
+##### Reliability / scalability (pålitelighet/skalerbarhet)
+##### Performance (Ytelse)
+##### Flexibility (Fleksibilitet)
+##### Securitu (Sikkerhet)
+##### Open source (Åpen kildekode)
+##### Large ecosystem (Stort økosystem)
+
+### Comparison
 
 Vi har også teknologien NoSQL som også mange velger å bruke. NoSQL refererer til en gruppe databaser som bruker en ikke-relasjonell datamodell. Her er noen fordeler og ulemper med begge:
 
@@ -68,6 +77,14 @@ Ulemper med NoSQL:
 Valget mellom MySQL og NoSQL er mye avhengig av de spesifikke kravene til applikasjonen eller systemet som skal bygges. Begge har fordeler og ulemper, og utviklere må vurdere brukstilfeller, datamodeller og skalerbarhetskrav når de skal ta en beslutning på hvilken de skal bruke.
 
 
-### Avslutning / konklusjon 
+### Sumary
 Avslutningsvis er MySQL en kraftig, brukervennlig og pålitelig database management system som blir mye brukt i denne bransjen. Funksjonene, skalerbarheten og sikkerheten gjør den til et ideelt valg for utviklere og bedrifter som ser etter en pålitelig databaseløsning.
 Jeg syns det var ganske håndterlig og enkelt å lære. Veldig interessant og se hva som skjer før frontendern setter til verks, noe jeg også tror kan gjøre en frontender sterkere. 
+
+#### Credits
+Anna Helene Sæthre (AnnaHelene01)
+
+#### References
+https://kinsta.com/knowledgebase/what-is-mysql/
+https://www.testgorilla.com/blog/sql-vs-nosql/?utm_term=&utm_campaign=Performance_Max_AU_NZ&utm_source=adwords&utm_medium=ppc&hsa_acc=4932434860&hsa_cam=14324002500&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAorKfBhC0ARIsAHDzslsSWyA005jnl5PZzeTXNVriVS_0oftaghXHn_ZuZ2rxpITrtDl9ICkaAqXOEALw_wcB
+
