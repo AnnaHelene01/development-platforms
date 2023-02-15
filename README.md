@@ -3,7 +3,7 @@
 ### 20.02.2023
 
 # MySQL 
-### Introction
+### Introduction
 MySQL er en åpen kildekode relasjonsdatabaseadministrasjonssystem (relational database management system) som blir brukt for webapplikasjoner, datavarehus og andre forretnings kritiske oppgaver.
 Den ble utgitt i 1995 og har blitt en av de mest populære databasene i verden.
 
@@ -46,7 +46,7 @@ I mitt tilfelle lagde jeg en handleliste, med skjema så jeg kunne legge til pro
 ##### Open source (Åpen kildekode)
 ##### Large ecosystem (Stort økosystem)
 
-### Comparison
+### Comparison MySQL vs NoSQL
 
 Vi har også teknologien NoSQL som også mange velger å bruke. NoSQL refererer til en gruppe databaser som bruker en ikke-relasjonell datamodell. Her er noen fordeler og ulemper med begge:
 
