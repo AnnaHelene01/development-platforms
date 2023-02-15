@@ -23,7 +23,7 @@ Klikk deretter på «create/opprett» knappen for å opprette den nye databasen 
 Når databasen er opprettet, kan du opprette tabeller og andre databaseobjekter ved å bruke knappen «create table/opprett tabell» eller ved å kjøre SQL queries i SQL tab/fanen. 
 For å administrere innholdet i databasen din kan du bruke fanene «Insert/sett inn», «Delete/slett», «Update/oppdater» og «Select/velg» i PHPMyAdmin. 
 
-I mitt tilfelle lagde jeg en handleliste, med skjema så jeg kunne legge til produkter etter behov.
+I mitt tilfelle lagde jeg en handleliste, med skjema så jeg kunne legge til produkter etter behov. Her kan kun fantasien stoppe deg angående hvilken / hvor avansert database du vil prøve å lage. 
 
 
 Vi har også teknologien NoSQL som også mange velger å bruke. NoSQL refererer til en gruppe databaser som bruker en ikke-relasjonell datamodell. Her er noen fordeler og ulemper med begge:
