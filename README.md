@@ -85,6 +85,6 @@ Jeg syns det var ganske håndterlig og enkelt å lære. Veldig interessant og se
 Anna Helene Sæthre (AnnaHelene01)
 
 #### References
-https://kinsta.com/knowledgebase/what-is-mysql/
-https://www.testgorilla.com/blog/sql-vs-nosql/?utm_term=&utm_campaign=Performance_Max_AU_NZ&utm_source=adwords&utm_medium=ppc&hsa_acc=4932434860&hsa_cam=14324002500&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAorKfBhC0ARIsAHDzslsSWyA005jnl5PZzeTXNVriVS_0oftaghXHn_ZuZ2rxpITrtDl9ICkaAqXOEALw_wcB
+- https://kinsta.com/knowledgebase/what-is-mysql/
+- https://www.testgorilla.com/blog/sql-vs-nosql/?utm_term=&utm_campaign=Performance_Max_AU_NZ&utm_source=adwords&utm_medium=ppc&hsa_acc=4932434860&hsa_cam=14324002500&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAorKfBhC0ARIsAHDzslsSWyA005jnl5PZzeTXNVriVS_0oftaghXHn_ZuZ2rxpITrtDl9ICkaAqXOEALw_wcB
 
