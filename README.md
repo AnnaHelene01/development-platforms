@@ -17,11 +17,25 @@ En annen fordel med MySQL er sikkerhetsfunksjonene den har. Den har innebygd st�
 ### Hoveddel
 MySQL har et sterkt felleskap av utviklere og brukere som bidrar til utviklingen. Dette felleskapet har skapt et stort økosystem av plugins, verktøy og biblioteker som utvider funksjonaliteten og gjør MySQL enda kraftigere. 
 
-Jeg satt opp min database med MySQL i PHPMyAdmin. For å gjøre dette logget jeg inn på PHPMyAdmin. Når du er logget inn for du en liste over eksisterende databaser til venstre på skjermen. For å lage en ny database klikker du på «New» knappen på toppen av skjermen.
-I «create database/ny database» skjemaet som dukker opp, velger du navn til den nye databasen din og velger default karakter og sammenstilling. Du kan la det være på default med mindre du har spesifikke krav.
-Klikk deretter på «create/opprett» knappen for å opprette den nye databasen din.
-Når databasen er opprettet, kan du opprette tabeller og andre databaseobjekter ved å bruke knappen «create table/opprett tabell» eller ved å kjøre SQL queries i SQL tab/fanen. 
-For å administrere innholdet i databasen din kan du bruke fanene «Insert/sett inn», «Delete/slett», «Update/oppdater» og «Select/velg» i PHPMyAdmin. 
+Jeg satt opp min database med MySQL i PHPMyAdmin. For å gjøre dette logget jeg inn på PHPMyAdmin. Når du er logget inn for du en liste over eksisterende databaser til venstre på skjermen. 
+- For å lage en ny database klikker du på «New» knappen på toppen av skjermen.
+- I «create database/ny database» skjemaet som dukker opp, velger du navn til den nye databasen din (shoppinglist eksempel) og velger default karakter og sammenstilling. Du kan la det være på default med mindre du har spesifikke krav.
+- Klikk deretter på «create/opprett» knappen for å opprette den nye databasen din.
+- Når databasen er opprettet, kan du opprette tabeller (products) og andre databaseobjekter ved å bruke knappen «create table/opprett tabell» eller ved å kjøre SQL queries i SQL tab/fanen. La da til ID, Name og Amount i denne tabellen.
+- For å administrere innholdet i databasen din kan du bruke fanene «Insert/sett inn», «Delete/slett», «Update/oppdater» og «Select/velg» i PHPMyAdmin. 
+- Eksempel når jeg skal legge inn et produkt i handleliste tabellen min så klikker jeg på SQL i menyen å gjør følgende:
+
+``
+INSERT INTO `products` (
+    `name`, `amount`
+)
+VALUES
+    ('Blå melk', '2'),
+    ('Kylling 400g', '3'),
+    ('Jasmin ris', '1')
+``
+
+Da vil Blå melk, Kylling 200g og Jasmin ris bli lagt til i handlelisten, altså databasen. 
 
 I mitt tilfelle lagde jeg en handleliste, med skjema så jeg kunne legge til produkter etter behov. Her kan kun fantasien stoppe deg angående hvilken / hvor avansert database du vil prøve å lage. 
 
