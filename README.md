@@ -1,2 +1,5 @@
-# development-platforms
-A collection of case studies covering development platform products.
+# Development Platforms Course Assignment
+## Anna Helene Sæthre
+### 20.02.2023
+
+### Introduksjon
